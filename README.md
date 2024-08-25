@@ -1,6 +1,6 @@
 # Pomodori
 
-A nice mobile app designed to manage work time effectively using the Pomodoro method.
+A nice mobile app developed in React Native, designed to manage work time effectively using the Pomodoro method.
 
 ## Installation
 
